@@ -1,4 +1,3 @@
-
 # Text-to-Image Generation Mini-Project
 
 ## Table of Contents
