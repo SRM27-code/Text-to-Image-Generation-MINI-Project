@@ -1,10 +1,5 @@
-Sure, I can help you create a README for your Text-to-Image Generation mini-project on GitHub. Here's a template you can use and customize according to your specific project details:
-
----
 
 # Text-to-Image Generation Mini-Project
-
-![Project Banner](path_to_your_banner_image)
 
 ## Table of Contents
 
