@@ -1,0 +1,20 @@
+More Prompts for the code:-
+1. "Futuristic cityscape with flying vehicles and neon lights, mdjrny-v4 style" - save as 
+"./futuristic_cityscape.png"
+2. "Fantasy landscape with towering castles and magical creatures, mdjrny-v4 style" -
+save as "./fantasy_landscape.png"
+3. "Underwater scene with colorful coral reefs and exotic fish, mdjrny-v4 style" - save as 
+"./underwater_scene.png"
+4. "Steampunk world with elaborate machinery and Victorian-era fashion, mdjrny-v4 
+style" - save as "./steampunk_world.png"
+5. "Space exploration scene with planets and spacecraft, mdjrny-v4 style" - save as 
+"./space_exploration.png"
+6. "Post-apocalyptic wasteland with rugged terrain and makeshift settlements, mdjrnyv4 style" - save as "./post_apocalyptic_wasteland.png"
+7. "Enchanted forest with mystical creatures and ancient ruins, mdjrny-v4 style" - save 
+as "./enchanted_forest.png"
+8. "Cyberpunk city skyline with skyscrapers and holographic advertisements, mdjrny-v4 
+style" - save as "./cyberpunk_cityscape.png"
+9. "Medieval village bustling with activity and market stalls, mdjrny-v4 style" - save as 
+"./medieval_village.png"
+10. "Desert landscape with sand dunes and nomadic tribes, mdjrny-v4 style" - save as 
+"./desert_landscape.png
